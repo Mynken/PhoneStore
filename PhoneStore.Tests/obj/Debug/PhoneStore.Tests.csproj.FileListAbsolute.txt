@@ -1,0 +1,110 @@
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\GenericTest1.GenericTest
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.dll.config
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.pdb
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Castle.Core.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Moq.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Data.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Web.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\WebActivatorEx.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Data.pdb
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Web.pdb
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Castle.Core.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Moq.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\csc.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\vbc.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\GenericTest1.GenericTest
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.dll.config
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Tests.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Castle.Core.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Moq.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Common.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Mvc.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Data.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Web.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Razor.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\WebActivatorEx.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\EntityFramework.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Data.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\PhoneStore.Web.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Castle.Core.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Moq.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Common.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\Ninject.Web.Mvc.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.Razor.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\EntityFramework.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Helpers.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Mvc.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.Razor.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\bin\Debug\ru\System.Web.WebPages.Razor.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.csprojResolveAssemblyReference.cache
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Tests\obj\Debug\PhoneStore.Tests.pdb

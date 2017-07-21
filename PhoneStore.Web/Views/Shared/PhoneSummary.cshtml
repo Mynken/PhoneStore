@@ -1,0 +1,25 @@
+﻿@model PhoneStore.Data.Entities.Phone
+<div class="well">
+        @if (Model.ImageData != null)
+        {
+            <div class="pull-left" style="margin-right: 10px">
+                <img class="img-thumbnail" width="75" height="75"
+                     src="@Url.Action("GetImage", "Phone",
+                new { Model.PhoneId })" />
+            </div>
+        }
+
+        <h3>
+            <strong>@Html.ActionLink(Model.Name, "Detail", new { Model.PhoneId})</strong>
+            <span class="pull-right label label-primary">@Model.Price.ToString("# zl")</span>
+        </h3>
+        @using (Html.BeginForm("AddToCart", "Cart"))
+        {
+            <div class="pull-right">
+                @Html.HiddenFor(x => x.PhoneId)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-success" value="Add to cart" />
+            </div>
+        }
+        <span class="lead">@Model.Description</span>
+    </div>

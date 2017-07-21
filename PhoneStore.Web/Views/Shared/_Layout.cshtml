@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @*<link href="~/Content/Site.css" rel="stylesheet" type="text/css" />*@
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/ErrorStyles.css" rel="stylesheet" />
+    <link href="~/Content/Site.css" rel="stylesheet" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        .navbar-right {
+            float: right !important;
+            margin-right: 15px;
+            margin-left: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="navbar navbar-inverse" role="navigation">
+        <a class="navbar-brand" href="#">
+            <span class="hidden-xs">PhoneStore - intrnet market for phones</span>
+            @*kогда размер окна меньше 768 пикселей*@
+            <div class="visible-xs">Phone</div>
+            <div class="visible-xs">Store</div>
+        </a>
+        @Html.Action("Summary", "Cart")
+    </div>
+
+    <div class="visible-xs">
+        @Html.Action("Menu", "Nav", new { horizontalNav = true })
+    </div>
+
+
+    <div class="row panel">
+        <div id="categories" class="col-xs-3 hidden-xs">
+            @Html.Action("Menu", "Nav")
+        </div>
+        <div class="col-xs-8 col-sm-8">
+            @RenderBody()
+        </div>
+    </div>
+    <div style="background-color:#222; position: absolute;
+        width: 100%;
+        height: 50px;
+        left: 0;
+        bottom: 0;
+        text-align: center">
+        <footer>
+            <p style="margin-left:50px; color:red; margin-top:15px">&copy; @DateTime.Now.Year - Waldes | Copyright (c) 2016 Vladyslav Hrehul</p>
+        </footer>
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+

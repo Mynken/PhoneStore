@@ -1,0 +1,112 @@
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\csc.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\vbc.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.dll.config
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.pdb
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Castle.Core.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\EntityFramework.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Moq.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Common.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\PhoneStore.Data.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Helpers.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Mvc.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Razor.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Razor.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\WebActivatorEx.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\PhoneStore.Data.pdb
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Castle.Core.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\EntityFramework.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Moq.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Common.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Razor.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Razor.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Helpers.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\System.Web.Mvc.xml
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.csprojResolveAssemblyReference.cache
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.dll
+C:\Users\Vladyslav\documents\visual studio 2015\Projects\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\csc.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\vbc.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\VBCSCompiler.exe
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.dll.config
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\PhoneStore.Web.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Castle.Core.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\EntityFramework.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\EntityFramework.SqlServer.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Moq.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Common.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Mvc.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\PhoneStore.Data.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Helpers.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Mvc.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Razor.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Razor.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\WebActivatorEx.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\PhoneStore.Data.pdb
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Castle.Core.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\EntityFramework.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\EntityFramework.SqlServer.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Moq.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Common.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\Ninject.Web.Mvc.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Razor.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Webpages.Razor.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Helpers.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\System.Web.Mvc.xml
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Razor.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.Deployment.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Webpages.Razor.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Helpers.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\bin\ru\System.Web.Mvc.resources.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.csprojResolveAssemblyReference.cache
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.dll
+D:\Projects\TOOP\PhoneStore\PhoneStore.Web\obj\Debug\PhoneStore.Web.pdb

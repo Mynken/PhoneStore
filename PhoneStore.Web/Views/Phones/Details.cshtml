@@ -1,0 +1,202 @@
+﻿@model PhoneStore.Data.Entities.Phone
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>Phone</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Description)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Description)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Category)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Category)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ImageData)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ImageData)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.ImageMimeType)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.ImageMimeType)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.OperationSystem)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.OperationSystem)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Color)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Color)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MultipleSim)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MultipleSim)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Cpu)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Cpu)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.SizeWeight)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SizeWeight)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Display)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Display)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Camera)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Camera)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Standarts)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Standarts)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.SimSize)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.SimSize)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Memory)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Memory)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Entertainment)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Entertainment)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Internet)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Internet)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.WirelessTechnology)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.WirelessTechnology)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Battery)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Battery)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.PackageContent)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.PackageContent)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.Guarantee)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.Guarantee)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.PhoneId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>
